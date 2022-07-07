@@ -1,3 +1,3 @@
 # First-Progect-Html-Css
-first progect i made ever
-btw i learn from elzero webschool
+first progect i ever made
+btw i learned from elzero webschool
